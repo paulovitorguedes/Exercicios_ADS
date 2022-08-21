@@ -3,7 +3,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-int main(){
+void main(){
     int num=0, peso=0;
     int cont;
     printf("Entre com 15 números e o sistema selecionará o maior número digitado\n");
