@@ -2,11 +2,11 @@
 ## Descrição:
 Para um melhor aprendizado, busco realizar os exercicios de forma mais extença e assim aumentando sua complexidade.
 
-1. [1° semestre Exercícios em C](#resolução-dos-exercícios-ads-estácio-primeiro-período)
+1. [1° semestre Exercícios em C](#resolução-dos-exercícios-ads-estácio-1º-período)
 1. [2° semestre Exercícios](#resolução-dos-exercícios-ads-estácio-segundo-período)
 
 ---
-### Resolução dos exercícios ADS Estácio (primeiro período)
+### Resolução dos exercícios ADS Estácio (1º período)
 1-Desenvolva um programa que leia 15 números inteiros e positivos e mostre o maior deles.
 * [RESOLUÇÃO](1°_Semestre_linguagem_C/1_exercicio.c)
 
