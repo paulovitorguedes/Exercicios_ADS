@@ -1,7 +1,12 @@
 # Exercícios_ADS_9001
-### Resolução dos exercícios ADS Estácio
+## Descrição:
+Para um melhor aprendizado, busco realizar os exercicios de forma mais extença e assim aumentando sua complexidade.
 
+1. [1° semestre Exercícios em C](#resolução-dos-exercícios-ads-estácio-primeiro-período)
+1. [2° semestre Exercícios](#resolução-dos-exercícios-ads-estácio-segundo-período)
 
+---
+### Resolução dos exercícios ADS Estácio (primeiro período)
 1-Desenvolva um programa que leia 15 números inteiros e positivos e mostre o maior deles.
 * [RESOLUÇÃO](1°_Semestre_linguagem_C/1_exercicio.c)
 
@@ -20,3 +25,19 @@ Ao final, o maior salário reajustado da empresa deve ser apresentado na tela.
 5-Desenvolva um programa que leia um número N e em seguida, uma lista de N números inteiros. 
 Este programa também deve calcular e mostrar a soma dos números pares e dos números ímpares da lista.
 * [RESOLUÇÃO](1°_Semestre_linguagem_C/5_exercicio.c)
+
+6-Desenvolver um programa que leia uma sequência de letras (a... z) terminada em ponto (.) e que mostre quantas vezes cada vogal (a, e, i, o, u) apareceu na lista.
+* [RESOLUÇÃO](1°_Semestre_linguagem_C/6_exercicio.c)
+
+7-Desenvolver um programa que leia cinco números inteiros e positivos e mostre o maior deles.
+* [RESOLUÇÃO](1°_Semestre_linguagem_C/7_exercicio.c)
+
+8-Desenvolva um programa que leia uma sequência de números, podendo terminar com o número 0 ou 9. 
+Para cada número lido (diferente de 0 ou 9), mostre seu sucessor caso o número seja par, ou seu antecessor se o número for ímpar.
+* [RESOLUÇÃO](1°_Semestre_linguagem_C/8_exercicio.c)
+
+9-Faça um programa que leia 10 números inteiros e mostre-os na ordem inversa em que foram lidos
+* [RESOLUÇÃO](1°_Semestre_linguagem_C/9_exercicio.c)
+
+---
+### Resolução dos exercícios ADS Estácio (segundo período)
