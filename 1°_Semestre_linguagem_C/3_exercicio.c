@@ -1,4 +1,4 @@
-//3- Desenvolva um programa que solicite a quantidad de alunos e quantidade de notas para cada aluno.
+//3-Desenvolva um programa que solicite a quantidad de alunos e quantidade de notas para cada aluno.
 //Calcule e mostre a média aritmética e a situação de aprovação de cada um deles. 
 //Lembre-se que apenas a média igual ou acima de 7 aprova o aluno.
 

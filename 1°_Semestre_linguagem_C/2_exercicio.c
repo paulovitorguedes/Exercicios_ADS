@@ -1,4 +1,4 @@
-//Desenvolva um programa que leia o salário de 10 funcionários de uma empresa
+//2-Desenvolva um programa que leia o salário de 10 funcionários de uma empresa
 //Calcule e mostre o maior salário e a média salarial da empresa.
 
 #include<stdio.h>

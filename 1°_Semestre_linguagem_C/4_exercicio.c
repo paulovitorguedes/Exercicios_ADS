@@ -19,7 +19,7 @@ void main(){
     int cont=0;
     maior=0.0;
     for(cont=0;cont<10; cont++){
-        printf("\nEntre com o salário %d: R$",cont);
+        printf("\nEntre com o salário %d: R$",cont+1);
         scanf("%f",&vet_salarios[cont]);
         vet_ajustados[cont]=vet_salarios[cont]*percent/100+vet_salarios[cont];
 
