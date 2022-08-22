@@ -43,10 +43,10 @@ Para cada número lido (diferente de 0 ou 9), mostre seu sucessor caso o número
 ###### Tabela de Imposto
 Salário Min. | Salário Max. | Imposto
 ---|---|---
-R$0.00        |R$999,00        |10%
-R$1.000,00    |R$1.999,00      |15%
-R$2.000,00    |R$9.999,00      |20%
-R$10.000,00   |R$99.999,00     |25%
+R$0.00        |R$999,99        |10%
+R$1.000,00    |R$1.999,99      |15%
+R$2.000,00    |R$9.999,99      |20%
+R$10.000,00   |R$99.999,99     |25%
 R$100.000,00  |R$...           |30% 
 * [RESOLUÇÃO](1°_Semestre_linguagem_C/10_exercicio.c)
 
